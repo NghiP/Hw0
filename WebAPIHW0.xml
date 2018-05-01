@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <movies>
 	<movie>
-		<title>"Ponyo"</title>
-		<year>2008</year>
+		<title>"Castle in The sky"</title>
+		<year>2010</year>
 		<genre>Adventure</genre>
 		<actors>
 			<actor>
-				<name>"Yuria Nana"</name>
+				<name>"Yuki Nana"</name>
 				<DateOfBirth>1999-12-21</DateOfBirth>
 			</actor>
 			<actor>
@@ -16,16 +16,16 @@
 		</actors>
 	</movie>
 	<movie>
-		<title>"Fight Club"</title>
-		<year>1999</year>
-		<genre>Drama</genre>
+		<title>"Frozen"</title>
+		<year>2013</year>
+		<genre>Comedy</genre>
 		<actors>
 			<actor>
-				<name>"Edward Norton"</name>
+				<name>"Kristen Bell"</name>
 				<DateOfBirth>1969-08-18</DateOfBirth>
 			</actor>
 			<actor>
-				<name>"Brad Pitt"</name>
+				<name>"Indina Menzel"</name>
 				<DateOfBirth>1963-12-18</DateOfBirth>
 			</actor>
 		</actors>
